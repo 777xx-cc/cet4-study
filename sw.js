@@ -1,5 +1,5 @@
 /* 高数学习站 Service Worker：静态资源缓存优先，离线可用 */
-const CACHE = "cet4-static-v2";
+const CACHE = "cet4-static-v3";
 
 const PRECACHE = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
